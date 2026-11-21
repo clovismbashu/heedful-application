@@ -1,0 +1,59 @@
+2026-10-29 08:35:50,083 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261029_083550.csv
+2026-10-29 08:35:50,102 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:36:44,302 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:36:46,346 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:36:49,716 | INFO     | DrowsinessMonitor | calibration.py:54 | Adaptive Calibration started.
+2026-10-29 08:36:49,719 | INFO     | DrowsinessMonitor | mic_detector.py:75 | Microphone voice detector started.
+2026-10-29 08:36:55,566 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Playing / Fidgeting
+2026-10-29 08:36:59,820 | INFO     | DrowsinessMonitor | expression_analyzer.py:32 | ExpressionAnalyzer calibrated baselines set: smile=-0.0140, raise=0.1754, knit=0.2020
+2026-10-29 08:36:59,821 | INFO     | DrowsinessMonitor | calibration.py:143 | Adaptive Calibration finished. Calibrated Thresholds: {'ear_threshold': 0.237, 'mar_threshold': 0.45, 'pitch_offset': 133.5, 'yaw_offset': -2.09, 'smile_baseline': -0.014, 'brow_raise_baseline': 0.1754, 'brow_knit_baseline': 0.202}
+2026-10-29 08:37:22,676 | INFO     | DrowsinessMonitor | distraction_detector.py:261 | YAWN DETECTED!
+2026-10-29 08:37:23,484 | WARNING  | DrowsinessMonitor | drowsiness_detector.py:121 | DROWSINESS DETECTED!
+2026-10-29 08:37:23,490 | WARNING  | DrowsinessMonitor | exporter.py:124 | Saved Drowsy Screenshot: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports/screenshots\drowsy_alert_20261029_083723_4858.jpg
+2026-10-29 08:37:27,034 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Talking / Speech Detected
+2026-10-29 08:37:36,377 | WARNING  | DrowsinessMonitor | drowsiness_detector.py:121 | DROWSINESS DETECTED!
+2026-10-29 08:37:36,382 | WARNING  | DrowsinessMonitor | exporter.py:124 | Saved Drowsy Screenshot: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports/screenshots\drowsy_alert_20261029_083736_3780.jpg
+2026-10-29 08:37:56,284 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Playing / Fidgeting
+2026-10-29 08:38:11,414 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Talking / Speech Detected
+2026-10-29 08:38:59,697 | INFO     | DrowsinessMonitor | distraction_detector.py:261 | YAWN DETECTED!
+2026-10-29 08:39:02,827 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Talking / Speech Detected
+2026-10-29 08:39:07,555 | INFO     | DrowsinessMonitor | distraction_detector.py:261 | YAWN DETECTED!
+2026-10-29 08:39:08,049 | WARNING  | DrowsinessMonitor | drowsiness_detector.py:121 | DROWSINESS DETECTED!
+2026-10-29 08:39:08,054 | WARNING  | DrowsinessMonitor | exporter.py:124 | Saved Drowsy Screenshot: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports/screenshots\drowsy_alert_20261029_083908_0506.jpg
+2026-10-29 08:39:21,687 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Playing / Fidgeting
+2026-10-29 08:42:42,031 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261029_084242.csv
+2026-10-29 08:42:42,051 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:42:58,479 | INFO     | DrowsinessMonitor | mic_detector.py:75 | Microphone voice detector started.
+2026-10-29 08:43:02,884 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:43:02,889 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:43:06,255 | INFO     | DrowsinessMonitor | mic_detector.py:75 | Microphone voice detector started.
+2026-10-29 08:43:07,133 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Mobile Phone Usage
+2026-10-29 08:43:09,060 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:43:09,077 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:44:02,932 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261029_084402.csv
+2026-10-29 08:44:02,946 | INFO     | DrowsinessMonitor | mic_detector.py:75 | Microphone voice detector started.
+2026-10-29 08:44:07,083 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Looking Away (Looking Right)
+2026-10-29 08:44:10,097 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:44:10,112 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:39,238 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:39,760 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:41,259 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:45,171 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:46,576 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:47,272 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:47,741 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:48,825 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-10-29 08:45:57,622 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-11-11 18:37:09,083 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261111_183709.csv
+2026-11-11 18:37:09,105 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-11-11 18:37:52,299 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261111_183752.csv
+2026-11-11 18:37:52,315 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-11-11 19:09:58,630 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261111_190958.csv
+2026-11-11 19:09:58,652 | INFO     | DrowsinessMonitor | mic_detector.py:75 | Microphone voice detector started.
+2026-11-11 19:10:04,270 | INFO     | DrowsinessMonitor | distraction_detector.py:216 | DISTRACTION DETECTED: Face Not Found
+2026-11-12 06:53:45,093 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261112_065345.csv
+2026-11-12 06:53:45,129 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-11-12 19:29:44,567 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261112_192944.csv
+2026-11-12 19:29:44,611 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
+2026-11-14 20:43:01,591 | INFO     | DrowsinessMonitor | exporter.py:50 | Initialized CSV Report: C:\Users\clovi\OneDrive\Desktop\Student-Drowsiness-Detection-System-main\reports\session_report_20261114_204301.csv
+2026-11-14 20:43:01,639 | INFO     | DrowsinessMonitor | mic_detector.py:122 | Microphone voice detector stopped.
