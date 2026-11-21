@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs & temporary files
+logs/*.log
+*.log
+
+# IDE & system
+.vscode/
+.idea/
+.kilocode/
+# Reports & test artifacts
+reports/screenshots/*.jpg
+reports/session_report_*.csv
+
